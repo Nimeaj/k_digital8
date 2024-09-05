@@ -18,7 +18,7 @@
 + pnu40244	이수민 : 
 + pnu40245	이준영 : 
 + pnu40246	정다정 : 
-+ pnu40251	정원영 : [htt](https://github.com/wonny725)
++ pnu40251	정원영 : https://github.com/wonny725
 + pnu40253	정진욱 : 
 + pnu40247	조은빈 : 
 + pnu40248	조효원 : 
