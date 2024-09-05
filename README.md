@@ -15,7 +15,7 @@
 + pnu40241	오시경 : 
 + pnu40242	윤찬희 : 
 + pnu40243	이가람 : 
-+ pnu40244	이수민 : 
++ pnu40244	이수민 : https://github.com/Riversidesky
 + pnu40245	이준영 : 
 + pnu40246	정다정 : 
 + pnu40251	정원영 : 
