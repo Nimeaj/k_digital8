@@ -24,4 +24,4 @@
 + pnu40253	정진욱 : 
 + pnu40247	조은빈 : https://github.com/iambean-git
 + pnu40248	조효원 : 
-+ pnu40249	천예진 : 
++ pnu40249	천예진 : https://github.com/Yejin324
