@@ -12,7 +12,7 @@
 + pnu40238	박래찬 : 
 + pnu40239	백진 : 
 + pnu40240	송소정 : 
-+ pnu40241	오시경 : 
++ pnu40241	오시경 : https://github.com/sikyeong5 
 + pnu40242	윤찬희 : 
 + pnu40243	이가람 : 
 + pnu40244	이수민 : 
