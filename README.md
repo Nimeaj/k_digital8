@@ -11,7 +11,7 @@
 + pnu40237	류승진 : 
 + pnu40238	박래찬 : 
 + pnu40239	백진 : 
-+ pnu40240	송소정 : 
++ pnu40240	송소정 : https://github.com/zooey-song
 + pnu40241	오시경 : 
 + pnu40242	윤찬희 : 
 + pnu40243	이가람 : 
