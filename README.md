@@ -17,7 +17,7 @@
 + pnu40241	오시경 : 
 + pnu40242	윤찬희 : https://github.com/chanheeYun/K8_HTML
 + pnu40243	이가람 : https://github.com/rraamm8
-+ pnu40244	이수민 : 
++ pnu40244	이수민 : https://github.com/Riversidesky
 + pnu40245	이준영 : https://github.com/jybs2357
 + pnu40246	정다정 : 
 + pnu40251	정원영 : https://github.com/wonny725
