@@ -12,7 +12,7 @@
 + pnu40250	김혜민 : https://github.com/hyeminyy  
 + pnu40237	류승진 : 
 + pnu40238	박래찬 : https://github.com/chani1352
-+ pnu40239	백진 : 
++ pnu40239	백진 : https://github.com/geniebaek
 + pnu40240	송소정 : 
 + pnu40241	오시경 : 
 + pnu40242	윤찬희 : 
