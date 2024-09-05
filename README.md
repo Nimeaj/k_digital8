@@ -15,7 +15,7 @@
 + pnu40239	백진 : https://github.com/geniebaek
 + pnu40240	송소정 : 
 + pnu40241	오시경 : 
-+ pnu40242	윤찬희 : 
++ pnu40242	윤찬희 : https://github.com/chanheeYun/K8_HTML
 + pnu40243	이가람 : https://github.com/rraamm8
 + pnu40244	이수민 : 
 + pnu40245	이준영 : https://github.com/jybs2357
