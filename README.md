@@ -13,7 +13,7 @@
 + pnu40237	류승진 : 
 + pnu40238	박래찬 : https://github.com/chani1352
 + pnu40239	백진 : https://github.com/geniebaek
-+ pnu40240	송소정 : 
++ pnu40240	송소정 : https://github.com/zooey-song
 + pnu40241	오시경 : https://github.com/sikyeong5 
 + pnu40242	윤찬희 : https://github.com/chanheeYun/K8_HTML
 + pnu40243	이가람 : https://github.com/rraamm8
