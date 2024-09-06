@@ -20,5 +20,5 @@
 + pnu40251	정원영 : https://github.com/wonny725
 + pnu40253	정진욱 : 
 + pnu40247	조은빈 : https://github.com/iambean-git
-+ pnu40248	조효원 : 
++ pnu40248	조효원 : https://github.com/gdw95/kb8.git
 + pnu40249	천예진 : https://github.com/Yejin324
