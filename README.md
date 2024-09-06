@@ -18,7 +18,7 @@
 + pnu40244	이수민 : https://github.com/Riversidesky
 + pnu40245	이준영 : https://github.com/jybs2357
 + pnu40251	정원영 : https://github.com/wonny725
-+ pnu40253	정진욱 : 
++ pnu40253	정진욱 : https://github.com/jinwook525
 + pnu40247	조은빈 : https://github.com/iambean-git
 + pnu40248	조효원 : 
 + pnu40249	천예진 : https://github.com/Yejin324
