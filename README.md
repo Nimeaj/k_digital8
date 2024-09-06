@@ -2,7 +2,7 @@
 + pnu40145	곽시은 :  
 + pnu40226	김경훈 : https://github.com/gyeong1181 
 + pnu40231	김민재 : https://github.com/Nimeaj
-+ pnu40233	김예진 : 
++ pnu40233	김예진 : https://github.com/YEJIN1120
 + pnu40234	김은희 : https://github.com/zladmsgml 
 + pnu40235	김좌현 : https://github.com/jwahyunkim
 + pnu40236	김준영 : https://github.com/zeromile-000
