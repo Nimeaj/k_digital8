@@ -8,7 +8,7 @@
 + pnu40236	김준영 : https://github.com/zeromile-000
 + pnu40252	김준우 : https://github.com/KIKJUNW00
 + pnu40250	김혜민 : https://github.com/hyeminyy  
-+ pnu40237	류승진 : 
++ pnu40237	류승진 : https://github.com/lenoau/
 + pnu40238	박래찬 : https://github.com/chani1352
 + pnu40239	백진 : https://github.com/geniebaek
 + pnu40240	송소정 : https://github.com/zooey-song
